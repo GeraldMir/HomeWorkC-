@@ -5,9 +5,7 @@
 // 161 -> да
 Console.WriteLine("Ввидите первое число");
 int numberFirst = Convert.ToInt32(Console.ReadLine());
-int delenie1= numberFirst%7;
-int delenie2= numberFirst%23;
-if (delenie1==0 && delenie2==0)
+if (numberFirst%7==0 && numberFirst%23==0)
 {
     Console.WriteLine("Число кратно, ответ ДА");
 }

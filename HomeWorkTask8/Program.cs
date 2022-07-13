@@ -10,7 +10,7 @@ else
 {
 int evenNumber = 2;
 Console.Write(evenNumber);
-while (evenNumber<N && N-evenNumber>1)
+while (N-evenNumber>1)
 {
     evenNumber= evenNumber+2;
     Console.Write("," + evenNumber);

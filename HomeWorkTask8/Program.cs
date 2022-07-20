@@ -15,10 +15,4 @@ while (N-evenNumber>1)
     evenNumber= evenNumber+2;
     Console.Write("," + evenNumber);
 }
-// }
-// int[] array1 = new int [] {x1, y1};
-// int[] array2 = new int [] {x2, y2};
-
-// double distance = Math.Sqrt(Math.Pow(array2[0] - array1[0], 2) + Math.Pow(array2[1] - array1[1], 2));
-
-// Console.WriteLine(distance);
+}

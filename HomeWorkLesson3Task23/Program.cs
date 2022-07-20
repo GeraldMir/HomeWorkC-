@@ -6,6 +6,6 @@ int evenNumber = 1;
 Console.Write(evenNumber);
 while (N>evenNumber)
 {
-    evenNumber= evenNumber+1;
+    evenNumber++;
     Console.Write("," + Math.Pow(evenNumber, 3));
 }

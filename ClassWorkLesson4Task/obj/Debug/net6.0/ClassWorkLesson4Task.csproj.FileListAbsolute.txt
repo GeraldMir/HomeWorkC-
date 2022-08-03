@@ -1,0 +1,15 @@
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.csproj.AssemblyReference.cache
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.AssemblyInfoInputs.cache
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.AssemblyInfo.cs
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.csproj.CoreCompileInputs.cache
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\bin\Debug\net6.0\ClassWorkLesson4Task.exe
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\bin\Debug\net6.0\ClassWorkLesson4Task.deps.json
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\bin\Debug\net6.0\ClassWorkLesson4Task.runtimeconfig.json
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\bin\Debug\net6.0\ClassWorkLesson4Task.dll
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\bin\Debug\net6.0\ClassWorkLesson4Task.pdb
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.dll
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\refint\ClassWorkLesson4Task.dll
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.pdb
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ClassWorkLesson4Task.genruntimeconfig.cache
+C:\GEEK_BRAINS\C#seminar2\ClassWorkLesson4Task\obj\Debug\net6.0\ref\ClassWorkLesson4Task.dll

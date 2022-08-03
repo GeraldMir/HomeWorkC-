@@ -5,6 +5,6 @@ for (int i = 0; i < arr.Length; i++)
 {
     Console.Write($"Введите {i+1}-й элемент массива: ");
     arr[i] = Convert.ToInt32(Console.ReadLine());
+    Console.Clear();
 }
-Console.Clear();
-Console.Write("[" + string.Join(", ", arr) + "]");
+Console.Write("Введённый массив: [" + string.Join(", ", arr) + "]");

@@ -1,0 +1,15 @@
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.csproj.AssemblyReference.cache
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.AssemblyInfoInputs.cache
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.AssemblyInfo.cs
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.csproj.CoreCompileInputs.cache
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\bin\Debug\net6.0\CWL5Task32.exe
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\bin\Debug\net6.0\CWL5Task32.deps.json
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\bin\Debug\net6.0\CWL5Task32.runtimeconfig.json
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\bin\Debug\net6.0\CWL5Task32.dll
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\bin\Debug\net6.0\CWL5Task32.pdb
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.dll
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\refint\CWL5Task32.dll
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.pdb
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\CWL5Task32.genruntimeconfig.cache
+C:\GEEK_BRAINS\C#seminar2\CWL5Task32\obj\Debug\net6.0\ref\CWL5Task32.dll

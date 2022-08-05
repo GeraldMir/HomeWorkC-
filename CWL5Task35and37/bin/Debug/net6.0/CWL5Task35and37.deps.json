@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CWL5Task35and37/1.0.0": {
+        "runtime": {
+          "CWL5Task35and37.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CWL5Task35and37/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

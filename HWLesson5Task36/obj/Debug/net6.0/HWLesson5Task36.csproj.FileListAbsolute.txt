@@ -1,0 +1,15 @@
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.csproj.AssemblyReference.cache
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.AssemblyInfoInputs.cache
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.AssemblyInfo.cs
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.csproj.CoreCompileInputs.cache
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\bin\Debug\net6.0\HWLesson5Task36.exe
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\bin\Debug\net6.0\HWLesson5Task36.deps.json
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\bin\Debug\net6.0\HWLesson5Task36.runtimeconfig.json
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\bin\Debug\net6.0\HWLesson5Task36.dll
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\bin\Debug\net6.0\HWLesson5Task36.pdb
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.dll
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\refint\HWLesson5Task36.dll
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.pdb
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\HWLesson5Task36.genruntimeconfig.cache
+C:\GEEK_BRAINS\C#seminar2\HWLesson5Task36\obj\Debug\net6.0\ref\HWLesson5Task36.dll

@@ -1,0 +1,15 @@
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.csproj.AssemblyReference.cache
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.AssemblyInfoInputs.cache
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.AssemblyInfo.cs
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.csproj.CoreCompileInputs.cache
+C:\GEEKBRAINS\HomeWorjLesson6Task43\bin\Debug\net6.0\HomeWorjLesson6Task43.exe
+C:\GEEKBRAINS\HomeWorjLesson6Task43\bin\Debug\net6.0\HomeWorjLesson6Task43.deps.json
+C:\GEEKBRAINS\HomeWorjLesson6Task43\bin\Debug\net6.0\HomeWorjLesson6Task43.runtimeconfig.json
+C:\GEEKBRAINS\HomeWorjLesson6Task43\bin\Debug\net6.0\HomeWorjLesson6Task43.dll
+C:\GEEKBRAINS\HomeWorjLesson6Task43\bin\Debug\net6.0\HomeWorjLesson6Task43.pdb
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.dll
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\refint\HomeWorjLesson6Task43.dll
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.pdb
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\HomeWorjLesson6Task43.genruntimeconfig.cache
+C:\GEEKBRAINS\HomeWorjLesson6Task43\obj\Debug\net6.0\ref\HomeWorjLesson6Task43.dll

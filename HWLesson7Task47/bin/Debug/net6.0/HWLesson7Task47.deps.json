@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HWLesson7Task47/1.0.0": {
+        "runtime": {
+          "HWLesson7Task47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWLesson7Task47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

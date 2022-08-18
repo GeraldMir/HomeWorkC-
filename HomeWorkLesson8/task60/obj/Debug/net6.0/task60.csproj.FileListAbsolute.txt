@@ -1,0 +1,15 @@
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\bin\Debug\net6.0\task60.exe
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\bin\Debug\net6.0\task60.deps.json
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\bin\Debug\net6.0\task60.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\bin\Debug\net6.0\task60.pdb
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\refint\task60.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.pdb
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task60\obj\Debug\net6.0\ref\task60.dll

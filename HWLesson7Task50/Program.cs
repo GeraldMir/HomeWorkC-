@@ -52,5 +52,5 @@ int[,] FillRandomDoubleArray(int lines = 3, int columns = 4, int leftRange = -10
             randomArray[i, j] = rand.Next(leftRange, rethRange + 1);
         }
     }
-    return randomArray[lines, columns];
+    return randomArray;
 }

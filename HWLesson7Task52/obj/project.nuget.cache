@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "lHRyQ1TYP0BZ+37g8GTYhoLBRVG/V3z3DeUN39ugZyiR8Kihu3JClPRRhb74OF7TfF9VvBjC/58AubwTkHhV6A==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HWLesson7Task52\\HWLesson7Task52.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "39UahXOjSh4bNevQBV17TElPPEYD3z5kWIVNKbvHKIK0txsNE1Fdo13p+Ij6nGaE+UeGtry1JeQcM4BmX5Jy+Q==",
+  "success": true,
+  "projectFilePath": "C:\\GEEKBRAINS\\HWLesson7Task52\\HWLesson7Task52.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> fbbec0e0175a5787da1f876f39a3fb319ef276bd
 }

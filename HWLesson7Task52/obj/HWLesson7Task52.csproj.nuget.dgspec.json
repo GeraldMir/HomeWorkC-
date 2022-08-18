@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "format": 1,
   "restore": {
@@ -57,4 +58,65 @@
       }
     }
   }
+=======
+{
+  "format": 1,
+  "restore": {
+    "C:\\GEEKBRAINS\\HWLesson7Task52\\HWLesson7Task52.csproj": {}
+  },
+  "projects": {
+    "C:\\GEEKBRAINS\\HWLesson7Task52\\HWLesson7Task52.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GEEKBRAINS\\HWLesson7Task52\\HWLesson7Task52.csproj",
+        "projectName": "HWLesson7Task52",
+        "projectPath": "C:\\GEEKBRAINS\\HWLesson7Task52\\HWLesson7Task52.csproj",
+        "packagesPath": "C:\\Users\\st807655\\.nuget\\packages\\",
+        "outputPath": "C:\\GEEKBRAINS\\HWLesson7Task52\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\st807655\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+>>>>>>> fbbec0e0175a5787da1f876f39a3fb319ef276bd
 }

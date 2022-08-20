@@ -33,8 +33,32 @@ int[,,] FillRandom3DArray(int lines = 2, int columns = 2, int axisZ = 2, int lef
         {
             for (int k = 0; k < array3D.GetLength(2); k++)
             {
-                array3D[i, j, k] = twistRandomArray[Convert.ToInt32(Math.Round(rand.NextDouble()+ 
-                rand.Next(0, twistRandomArray.Length-1)))];
+                // array3D[i, j, k] = twistRandomArray[Convert.ToInt32(Math.Round(rand.NextDouble() +
+                // rand.Next(0, twistRandomArray.Length - 1)))];
+                array3D[i, j, k] = twistRandomArray[rand.Next(0, twistRandomArray.Length - 1)];
+            }
+        }
+    }
+    for (int i = 0; i < array3D.GetLength(0); i++)
+    {
+        for (int j = 0; j < array3D.GetLength(1); j++)
+        {
+            for (int k = 0; k < array3D.GetLength(2); k++)
+            {
+                int temp = array3D[i, j, k];
+                for (int n = 0; n < array3D.GetLength(0); n++)
+                {
+                    for (int m = 0; m < array3D.GetLength(1); m++)
+                    {
+                        for (int o = 0; o < array3D.GetLength(2); o++)
+                        {
+                            if (temp == array3D[n, m, o] && i != n && j != m && k != o)
+                            {
+                                array3D[i, j, k] = twistRandomArray[rand.Next(0, twistRandomArray.Length - 1)];
+                            }
+                        }
+                    }
+                }
             }
         }
     }

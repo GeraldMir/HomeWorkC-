@@ -1,0 +1,15 @@
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.csproj.AssemblyReference.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.AssemblyInfoInputs.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.AssemblyInfo.cs
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.csproj.CoreCompileInputs.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\bin\Debug\net6.0\task62verOne.exe
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\bin\Debug\net6.0\task62verOne.deps.json
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\bin\Debug\net6.0\task62verOne.runtimeconfig.json
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\bin\Debug\net6.0\task62verOne.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\bin\Debug\net6.0\task62verOne.pdb
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\refint\task62verOne.dll
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.pdb
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\task62verOne.genruntimeconfig.cache
+C:\GEEK_BRAINS\CSharpSeminarHomeWork\HomeWorkLesson8\task62verOne\obj\Debug\net6.0\ref\task62verOne.dll

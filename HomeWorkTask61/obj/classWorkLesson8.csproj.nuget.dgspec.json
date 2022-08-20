@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\classWorkLessonPaskal\\classWorkLesson8.csproj": {}
+    "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HomeWorkTask61\\classWorkLesson8.csproj": {}
   },
   "projects": {
-    "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\classWorkLessonPaskal\\classWorkLesson8.csproj": {
+    "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HomeWorkTask61\\classWorkLesson8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\classWorkLessonPaskal\\classWorkLesson8.csproj",
+        "projectUniqueName": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HomeWorkTask61\\classWorkLesson8.csproj",
         "projectName": "classWorkLesson8",
-        "projectPath": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\classWorkLessonPaskal\\classWorkLesson8.csproj",
+        "projectPath": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HomeWorkTask61\\classWorkLesson8.csproj",
         "packagesPath": "C:\\Users\\Гера\\.nuget\\packages\\",
-        "outputPath": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\classWorkLessonPaskal\\obj\\",
+        "outputPath": "C:\\GEEK_BRAINS\\CSharpSeminarHomeWork\\HomeWorkTask61\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Гера\\AppData\\Roaming\\NuGet\\NuGet.Config"
